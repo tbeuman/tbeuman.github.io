@@ -1,0 +1,11 @@
+body{
+	font-family: "Marker Felt", "Times New Roman", fantasy;
+	background-image: url("background/background.jpg");
+	color: white;
+}
+
+p
+{
+	width:300px; 
+	word-wrap:break-word;
+}
